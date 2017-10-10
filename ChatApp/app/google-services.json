@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "993738750092",
+    "firebase_url": "https://mychatappfirebase-ac0be.firebaseio.com",
+    "project_id": "mychatappfirebase-ac0be",
+    "storage_bucket": "mychatappfirebase-ac0be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993738750092:android:963843e7c26c0d4c",
+        "android_client_info": {
+          "package_name": "com.example.pdish.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993738750092-6sl09doa7rpe8eact4pipginulgh72lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdish.mychatapp",
+            "certificate_hash": "0501f033651680b147af2376c3d6c6b52323e518"
+          }
+        },
+        {
+          "client_id": "993738750092-a44pg26ai42h9daihjoh3u0921j69l7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC03MQioOo7TaQxrHZEiPMtR1Nedfrgrsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993738750092-a44pg26ai42h9daihjoh3u0921j69l7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993738750092:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993738750092-mgsros4o6fc1451oftj5qgm3007sajka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "0501f033651680b147af2376c3d6c6b52323e518"
+          }
+        },
+        {
+          "client_id": "993738750092-a44pg26ai42h9daihjoh3u0921j69l7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC03MQioOo7TaQxrHZEiPMtR1Nedfrgrsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993738750092-a44pg26ai42h9daihjoh3u0921j69l7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
