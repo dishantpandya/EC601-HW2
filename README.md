@@ -11,3 +11,5 @@ I have completed three apps:
 4. I've added screenshots of the virtual device with all the activities.
 
 5. Compressed(.rar) project files have been added.
+
+**The AWS Device Farm Unit Testing results are in the 'UnitTesting.pdf' file. Screenshots of the report generated have been provided in that file.**
